@@ -1,0 +1,4 @@
+#!/bin/bash
+# GNU bash, version 4.3.46
+#shell script to dispay files with 1st letter a and 3rd letter c
+ls | grep "^a.c"

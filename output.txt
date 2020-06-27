@@ -1,0 +1,8 @@
+3 little pigs went to os class.
+the wolf ate one!
+2 little pigs went to os class.
+the wolf ate one!
+1 little pigs went to os class.
+the wolf ate one!
+CLASS DISMISSED!
+opcode erroropcode errorTime Limit exceededtime limit exceeded and opcode error
